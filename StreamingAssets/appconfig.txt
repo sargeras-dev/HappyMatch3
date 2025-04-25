@@ -1,0 +1,5 @@
+### 游戏配置（toml）###
+
+# 客户端版本号
+AppVersion = "1.0.0"
+AppVersionCode = 127
